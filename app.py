@@ -44,7 +44,7 @@ if section == "About Me":
     I am passionate about sustainable infrastructure, nuclear energy, and optimization of energy systems.  
 
     📍 Based in Stockholm  
-    📫 [LinkedIn](https://linkedin.com/in/yourprofile) | 📧 hamsve@kth.se
+    📫 [LinkedIn](https://www.linkedin.com/in/hampus-svensson-a154681a4) | 📧 hamsve@kth.se
     """)
 
     col1, col2 = st.columns(2)
