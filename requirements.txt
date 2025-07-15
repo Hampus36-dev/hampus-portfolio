@@ -3,3 +3,4 @@ streamlit-option-menu
 streamlit
 snowflake-connector-python
 streamlit_shadcn_ui
+streamlit_timeline
